@@ -1,13 +1,10 @@
 # hello-world-demo
 
-# A Simple Hello World Python Demo 
+# A Simple Hello World Demo 
 
 This is a simple hello world demo using python 3 and docker. This project is done for self-learning.  
+
 ## Run the application
-
-
-
-
 
 We can simply use `python3 app.py` command.
 
